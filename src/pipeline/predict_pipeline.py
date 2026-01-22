@@ -6,7 +6,7 @@ from src.utils import load_object
 
 class predictpipeline:
     def __init__(self):
-        
+        pass
     def predict(self,features):
         try:
             model_path='artefacts/model.pkl'
